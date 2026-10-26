@@ -4,12 +4,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -35,4 +37,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0283-move-zeroes/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
