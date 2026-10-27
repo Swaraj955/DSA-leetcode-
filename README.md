@@ -41,4 +41,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0048-rotate-image/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
