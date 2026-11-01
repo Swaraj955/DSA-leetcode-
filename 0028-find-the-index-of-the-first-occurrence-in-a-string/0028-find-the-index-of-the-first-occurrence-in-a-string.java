@@ -8,6 +8,7 @@ class Solution {
             while ( j < needle.length()&& ( i+j)<haystack.length()){
                 if (needle.charAt(j) != haystack.charAt(i+j)){
                     break;
+                    
                 }
                 j = j + 1;
             }
