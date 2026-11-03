@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0283-move-zeroes/) | Easy |
@@ -22,6 +23,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -86,4 +88,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
