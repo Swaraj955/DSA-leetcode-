@@ -48,6 +48,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
@@ -75,6 +76,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
@@ -100,6 +102,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -118,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
