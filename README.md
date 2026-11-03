@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0048-rotate-image](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0066-plus-one/) | Easy |
@@ -46,6 +47,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0283-move-zeroes/) | Easy |
@@ -106,4 +108,8 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
