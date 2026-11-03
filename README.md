@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0283-move-zeroes/) | Easy |
@@ -50,6 +51,7 @@
 | [0011-container-with-most-water](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -112,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0011-container-with-most-water/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
