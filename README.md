@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0048-rotate-image](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -22,6 +23,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
@@ -35,6 +37,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -78,6 +81,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
