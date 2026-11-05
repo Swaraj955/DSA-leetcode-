@@ -53,6 +53,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -64,6 +65,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Swaraj955/DSA-leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
