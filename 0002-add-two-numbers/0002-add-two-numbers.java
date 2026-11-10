@@ -28,6 +28,7 @@ class Solution {
                 temp = temp.next;
 
             }
+            
             if(l1!=null){
                 l1 = l1.next;
             }
